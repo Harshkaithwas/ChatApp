@@ -81,6 +81,11 @@ and chatroom name u will recive after applying step 7. And in params u have to p
 With thses details you are ready to go with this project. 
 
 
+There is an special case if u want to load users from a .json file then we can do it by:
+
+        http://127.0.0.1:8000/account/load_users/
+
+
 
 
 
